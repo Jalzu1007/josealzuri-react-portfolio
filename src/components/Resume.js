@@ -41,8 +41,8 @@ const Resume = () => {
                   Click the link below to download my resume in PDF format:
                 </p>
                 <a
-                  href="/Simon_Pereira_Resume.pdf"
-                  download="Simon_Pereira_Resume.pdf"
+                  href="/Jose_Alzuri_Resume.pdf"
+                  download="Jose_Alzuri_Resume.pdf"
                   className="btn btn-primary"
                 >
                   Download Resume
