@@ -11,14 +11,14 @@ const projects = [
     },
     {
       title: 'Tech Blog',
-      description: 'Full-stack tech blog application.',
+      description: 'Full-Stack tech blog application.',
       imageSrc: 'tech-blog-project.jpg',
       deployedLink: 'https://tech-blog-jalzu1007-7d5a00d9e01b.herokuapp.com/',
       githubLink: 'https://github.com/Jalzu1007/tech-blog.git'
     },
     {
       title: 'BookMark',
-      description: 'Quote generator web application.',
+      description: 'Full-Stack book review application.',
       imageSrc: 'book-mark.jpg',
       deployedLink: 'https://jalzu1007.github.io/the_recipe_bar/',
       githubLink: 'https://github.com/Jalzu1007/the_recipe_bar.git'
