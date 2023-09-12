@@ -5,7 +5,7 @@ import './App.css';
 
 import Header from './components/Header';
 import Home from './components/Home';
-import About from './components/about';
+import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
