@@ -7,7 +7,7 @@ const projects = [
       description: 'Full-Stack web application using MERN, GraphQL, and API.',
       imageSrc: 'my-health-space.jpg',
       deployedLink: 'https://my-health-space-e9d209a11adb.herokuapp.com/',
-      githubLink: 'https://github.com/andreaber23/myhealthspace.git'
+      githubLink: 'https://github.com/Jalzu1007/myhealthspace.git'
     },
     {
       title: 'Tech Blog',
