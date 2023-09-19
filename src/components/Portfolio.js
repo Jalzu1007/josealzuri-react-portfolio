@@ -3,11 +3,11 @@ import Project from './Project';
 
 const projects = [
     {
-      title: 'Book Search Engine',
+      title: 'MyHealthSpace',
       description: 'Full-Stack web application using MERN, GraphQL, and API.',
-      imageSrc: 'book-search-engine.jpg',
-      deployedLink: '',
-      githubLink: 'https://github.com/Jalzu1007/book-search-engine.git'
+      imageSrc: 'my-health-space.jpg',
+      deployedLink: 'https://my-health-space-e9d209a11adb.herokuapp.com/',
+      githubLink: 'https://github.com/andreaber23/myhealthspace.git'
     },
     {
       title: 'Tech Blog',
