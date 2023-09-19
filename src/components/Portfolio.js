@@ -20,8 +20,8 @@ const projects = [
       title: 'BookMark',
       description: 'Full-Stack book review application.',
       imageSrc: 'book-mark.jpg',
-      deployedLink: 'https://jalzu1007.github.io/the_recipe_bar/',
-      githubLink: 'https://github.com/Jalzu1007/the_recipe_bar.git'
+      deployedLink: 'https://the-bookmark-bd6e85df4657.herokuapp.com/',
+      githubLink: 'https://github.com/Jalzu1007/bookmark.git'
     },
     {
       title: 'The Recipe Bar',
