@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/josealzuri-react-portfolio/static/css/main.d5c5ca5e.css",
-    "main.js": "/josealzuri-react-portfolio/static/js/main.cd6b1a74.js",
+    "main.js": "/josealzuri-react-portfolio/static/js/main.9efb38bb.js",
     "index.html": "/josealzuri-react-portfolio/index.html",
     "main.d5c5ca5e.css.map": "/josealzuri-react-portfolio/static/css/main.d5c5ca5e.css.map",
-    "main.cd6b1a74.js.map": "/josealzuri-react-portfolio/static/js/main.cd6b1a74.js.map"
+    "main.9efb38bb.js.map": "/josealzuri-react-portfolio/static/js/main.9efb38bb.js.map"
   },
   "entrypoints": [
     "static/css/main.d5c5ca5e.css",
-    "static/js/main.cd6b1a74.js"
+    "static/js/main.9efb38bb.js"
   ]
 }
